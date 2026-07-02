@@ -101,10 +101,6 @@ The interactive Power BI dashboard includes:
 ---
 
 # 📷 Dashboard Preview
-
-> **Replace the image below with your dashboard screenshot after uploading it to GitHub.**
-
-```markdown
 <img width="1366" height="756" alt="Screenshot 2026-07-02 014644" src="https://github.com/user-attachments/assets/26b6ae30-0ad9-45a0-a71b-842ef75a1d71" />
 ```
 
