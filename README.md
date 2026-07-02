@@ -101,7 +101,8 @@ The interactive Power BI dashboard includes:
 ---
 
 # 📷 Dashboard Preview
-<img width="1358" height="753" alt="Movie Industry Performance Analysis" src="https://github.com/user-attachments/assets/cd59e22c-e264-41a2-8b5d-a23e34eb1045" />
+<img width="1355" height="748" alt="movie-industry-performance- dashboard" src="https://github.com/user-attachments/assets/fc1b8b6f-eb20-4025-a21c-62855fa4e97b" />
+
 
 ```
 
